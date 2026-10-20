@@ -1,0 +1,5 @@
+com/yugjain/coursetracker/DatabaseTest.class
+com/yugjain/coursetracker/AnalyticsServiceTest.class
+com/yugjain/coursetracker/ModuleStudyApiTest.class
+com/yugjain/coursetracker/WebApiTest.class
+com/yugjain/coursetracker/AuthControllerTest.class
